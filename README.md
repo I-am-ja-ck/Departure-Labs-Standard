@@ -27,7 +27,7 @@ Yes, this means you can embed your jpegs directly in HTML. Maybe you mint an ima
 > I don't know why you'd do that, but it sounds really cool!
 
 
-We also support streaming large assets in and out of the contract 😄.
+We also support streaming large assets in and out of the contract
 
 Check out a demo HTML NFT [here](https://4gpah-faaaa-aaaaf-qabfq-cai.raw.ic0.app/nft/7) 👀.
 
